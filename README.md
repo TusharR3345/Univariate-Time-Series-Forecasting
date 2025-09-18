@@ -40,4 +40,6 @@ Designed and implemented a time series forecasting project on 11 years of monthl
 - **scikit-learn** – Metrics and validation  
 - **Jupyter Notebook** – Interactive analysis
 
-  
+## 📊 Results:
+
+
