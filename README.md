@@ -51,7 +51,7 @@ Designed and implemented a time series forecasting project on 11 years of monthl
 ![Alt Text](images/time2.png)
 
 **Prediction using SARIMA on training data**
-![Alt Text](images/timese.png)
+![Alt Text](images/time1.png)
 
 **Prediction using SARIMA on Entire data**
 ![Alt Text](images/time.png)
