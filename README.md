@@ -41,5 +41,6 @@ Designed and implemented a time series forecasting project on 11 years of monthl
 - **Jupyter Notebook** – Interactive analysis
 
 ## 📊 Results:
-
+**Series before differencing**
+![Alt Text](
 
