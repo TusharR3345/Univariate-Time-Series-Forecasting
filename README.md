@@ -48,5 +48,5 @@ Designed and implemented a time series forecasting project on 11 years of monthl
 ![Alt Text](images/time3.png)
 
 **Prediction using ARIMA on training data**
-![Alt Text](images/time2.png)
+![Alt Text](images/time 2.png)
 
